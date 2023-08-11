@@ -1,3 +1,5 @@
+"""Nuevo comentario para que los comandos de consola sean familiares"""
+
 '''Función 2'''
 
 """ Esta función se diseñó para reacomodar en 
