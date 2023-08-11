@@ -1,3 +1,5 @@
+"""Este comentario es de la Practica de hoy"""
+
 '''Función 1'''
 
 """ Esta función se diseñó para realizar la suma de todos los números de característica 
